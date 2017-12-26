@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Лабораторное оборудование и расходные материалы. ООО «Ментор»</title>
+<!--#include file="inc_info.html"-->
+<!--#include file="inc_top.html"-->
+<!--#include file="inc_middle.html"-->
+<table width=1000 cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td valign=top width=283><img src="pic/pointer1.gif" width=282 height=16 border=0>
+<!--#include file="inc_menu.html"-->
+</td>
+<td bgcolor="#E5E5E5" width=717 valign=top><img src="pic/white.gif" width=717 height=1 border=0><br>
+	<table width=717 cellpadding=0 cellspacing=0 border=0>
+	<tr>
+	<td width=25><img src="pic/pixel.gif" width=25 height=1 border=0></td>
+	<td><div style="margin-top:10px"></div>
+<!-------------------- хлебные крошки -------------------------->
+<!--<table border=1 cellpadding=0 cellspacing=0>
+<tr>
+<td><a href="/">Главная</a></td>
+</tr>
+</table><div style="margin-top:10px"></div>
+--><!--------------------/ хлебные крошки -------------------------->
+<div style="margin-top:20px"></div>
+
+<!-------------------- текстовый блок -------------------------->
+<table border=0 cellpadding=1 cellspacing=0 align=right>
+<tr>
+<td>
+
+	<table border=0 cellpadding=1 cellspacing=0>
+	<tr><td></td><td bgcolor="#417CA6"><img src="pic/pixel.gif" width=5 height=2 border=0></td></tr>
+	<tr><td><img src="pic/pixel.gif" width=5 height=1 border=0></td><td bgcolor="#A2A2A3">
+	<table border=0 cellpadding=0 cellspacing=5 bgcolor="#FFFFFF" width=100%>
+	<tr><td><a href="page24.shtml"><b>Нефтехимическое<br>оборудование</b></a></td></tr>
+	<tr><td><a href="page24.shtml"><img src="pic/neftehim_home_sm1.jpg" width=168 height=181 border=0 id=bor alt="Нефтехимическое оборудование"></a></td></tr>
+	<tr><td></td></tr>
+	</table>
+	</td></tr>
+	<tr><td></td><td><img src="pic/pixel.gif" width=5 height=5 border=0></td></tr>
+	</table><div style="margin-top:15px"></div>
+
+	<table border=0 cellpadding=1 cellspacing=0>
+	<tr><td></td><td bgcolor="#417CA6"><img src="pic/pixel.gif" width=5 height=2 border=0></td></tr>
+	<tr><td><img src="pic/pixel.gif" width=5 height=1 border=0></td><td bgcolor="#A2A2A3">
+	<table border=0 cellpadding=0 cellspacing=5 bgcolor="#FFFFFF" width=100%>
+	<tr><td><a href="page25.shtml"><b>Сепарационно-<br>фильтрационные модули<br>(СФМ) и фильтро-<br>элементы (ФЭВ)</b></a></td></tr>
+	<tr><td><a href="page25.shtml"><img src="pic/neftehim_home_sm2.jpg" width=168 height=181 border=0 id=bor alt="Сепарационно-фильтрационные модули (СФМ) и фильтроэлементы (ФЭВ)"></a></td></tr>
+	<tr><td></td></tr>
+	</table>
+	</td></tr>
+	<tr><td></td><td><img src="pic/pixel.gif" width=5 height=5 border=0></td></tr>
+	</table><div style="margin-top:15px"></div>
+
+	<table border=0 cellpadding=1 cellspacing=0>
+	<tr><td></td><td bgcolor="#417CA6"><img src="pic/pixel.gif" width=5 height=2 border=0></td></tr>
+	<tr><td><img src="pic/pixel.gif" width=5 height=1 border=0></td><td bgcolor="#A2A2A3">
+	<table border=0 cellpadding=0 cellspacing=5 bgcolor="#FFFFFF" width=100%>
+	<tr><td><a href="page22.shtml"><b>Пакеты для пробоотбора<br>и гомогенизации</b></a></td></tr>
+	<tr><td><a href="page22.shtml"><img src="pic/paket_home_1sm.jpg" width=168 height=156 border=0 id=bor alt="Пакеты для пробоотбора"></a></td></tr>
+	<tr><td><p>Экономичное решение<br> для отбора, хранения<br> и транспортировки<br> образцов</p></td></tr>
+	</table>
+	</td></tr>
+	<tr><td></td><td><img src="pic/pixel.gif" width=5 height=5 border=0></td></tr>
+	</table><div style="margin-top:15px"></div>
+
+	<table border=0 cellpadding=1 cellspacing=0>
+	<tr><td></td><td bgcolor="#417CA6"><img src="pic/pixel.gif" width=5 height=2 border=0></td></tr>
+	<tr><td><img src="pic/pixel.gif" width=5 height=1 border=0></td><td bgcolor="#A2A2A3">
+	<table border=0 cellpadding=0 cellspacing=5 bgcolor="#FFFFFF" width=100%>
+	<tr><td><a href="page13_1.shtml"><b>Чашки Петри 90 мм</b></a></td></tr>
+	<tr><td><a href="page13_1.shtml"><img src="pic/ch_p_1sm.jpg" width=168 height=123 border=0 id=bor alt="Чашки Петри 90 мм"></a></td></tr>
+	<tr><td><p>Вентилируемые.<br>Полистирол. Однократного<br> применения. Стерильные.<br> По цене от <b>3,95</b> р/шт.</p></td></tr>
+	</table>
+	</td></tr>
+	<tr><td></td><td><img src="pic/pixel.gif" width=5 height=5 border=0></td></tr>
+	</table>
+
+</td>
+</tr>
+</table>
+
+
+<p class=topic1>О компании</p>
+
+<p><b>МЕНТОР</b> - комплексный поставщик лабораторного и технологического оборудования широкого профиля.</p><br>
+
+<p>Наш главный приоритет - качество во всем. Мы ответственно подходим к процессу поставки лабораторного оборудования, начиная от первичной консультации и заканчивая инсталляцией оборудования у Заказчика. Мы придаем большое значение каждому этапу взаимодействия с нашим клиентом и дорожим своей репутацией.</p><br>
+<p>Мы выполняем свои обязательства перед Заказчиками. Наш опыт и клиентоориентированность позволяют нам осуществлять как разовые поставки, так и комплексное оснащение микробиологических, медико-биологических, санитарных, контрольных, ветеринарных и образовательных лабораторий. Наш клиент - полноценный партнер, комфортное и взаимовыгодное сотрудничество с которым составляет основу деятельности нашей компании.</p><br>
+
+<p><b>ЦЕНА</b></p>
+<p>Мы предлагаем адекватные рыночные цены.</p>
+<p>Для торгующих организаций действуют специальные скидки.</p><br>
+
+<p><b>СКЛАД</b></p>
+<p>В нашем распоряжении всегда имеется широкая номенклатура складских позиций, а это означает оперативность поставки оборудования и расходных материалов.</p><br>
+
+<p><b>АССОРТИМЕНТ</b></p>
+<p>Достойный ассортимент экономит время наших Заказчиков. Наши партнеры - ведущие производители лабораторного оборудования. У нас всегда есть интересные предложения для наших клиентов.</p><br>
+
+<p><b>СЕРВИС</b></p>
+<p>Мы выполняем пуско-наладочные работы, гарантийный ремонт и осуществляем сервисную поддержку нашего оборудования.</p><br>
+
+<p><b>РЕГИОНЫ</b></p>
+<p>Компания <b>МЕНТОР</b> осуществляет поставку лабораторного оборудования и расходных материалов по всей России.</p><br>
+
+<!--------------------/ текстовый блок -------------------------->
+<br><br>
+	</td>
+	<td><img src="pic/pixel.gif" width=25 height=1 border=0></td>
+	</tr>
+	</table>
+</td>
+</tr>
+</table>
+<!--#include file="inc_copy_home.html"-->
+</body>
+</html>
